@@ -1,0 +1,12 @@
+name = "telegram-bot"
+compatibility_date = "2025-11-06"
+main = "index.js"  # Worker entry point
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bot_db"
+database_id = "b7bbfe9d-41ed-40a0-b27b-39e7d7538c74"
+
+[vars]
+BOT_TOKEN = "8311667835:AAFyuUGpjH0WC8zwav0G5xTtXwX9NkLynUM"
+BOT_OWNER_ID = "7098943602"
