@@ -8,5 +8,5 @@ database_name = "bot_db"
 database_id = "b7bbfe9d-41ed-40a0-b27b-39e7d7538c74"
 
 [vars]
-BOT_TOKEN = "8311667835:AAFyuUGpjH0WC8zwav0G5xTtXwX9NkLynUM"
+BOT_TOKEN = "8547199219:AAGOEbB7fsSSIGCEvNChLeq9iAjlRG8Gy34"
 BOT_OWNER_ID = "7098943602"
