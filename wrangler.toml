@@ -1,4 +1,4 @@
-name = "telegram-bot"
+name = "postmaster"
 compatibility_date = "2025-11-06"
 main = "index.js"  # Worker entry point
 
